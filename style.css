@@ -9,7 +9,8 @@ body{
 
 #cover-photo{
     background-image: url("https://www.techprevue.com/wp-content/uploads/2017/06/electronic-devices-1.jpg");
-    height: 740px;
+    height: 47rem;
+    width: 31rem;
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
@@ -23,7 +24,7 @@ nav{
     position: fixed;
     background-color: hsla(0, 0%, 20%, 0.6);
     box-shadow: 0px 3px 3px hsla(244, 100%, 70%, 0.5); 
-    width: 100%;
+    width: 110%;
     padding-bottom: 7px;
     z-index: 50;
 }
@@ -41,9 +42,9 @@ nav a {
     border: 5px solid hsl(244, 100%, 70%, 0.5);
     border-radius: 20px;
     color: rgba(255, 255, 255, 0.5);
-    font-size: 150%;
-    width: 500px;
-    padding: 20px;
+    /* font-size: 150%;
+    width: 500px; */
+    padding-left: 28%;
     line-height: 20px;
     top: 40%;
     left: 50%;
